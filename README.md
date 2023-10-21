@@ -1,6 +1,6 @@
 # Churn Prediction in Telecom Industry
 
-**Code Clause Verified Project** - [**Credentials**]
+**Code Clause Verified Project** - [**Credentials**](https://mail.google.com/mail/u/1/#inbox/FMfcgzGtxSnzqhnGKJlldBhzwLzxrGCQ?projector=1&messagePartId=0.1)
 
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQG0Gilk9mJpxw/article-cover_image-shrink_720_1280/0/1621963349834?e=2147483647&v=beta&t=S-3_jI-4xWu14OSyh7RJg93TQmLc_QWTZAW5Gd_aL8s)
 
@@ -79,4 +79,4 @@ The project has provided valuable insights into customer behavior, churn pattern
 ---
 
 ## Reference
- - [Code Clause Data Science Internship](https://internship.codeclause.com/)
+ - [Code Clause Data Science Internship](https://app.internship.codeclause.com/intern/login)
