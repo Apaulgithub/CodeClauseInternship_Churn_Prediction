@@ -50,6 +50,12 @@ The Churn Prediction in Telecom Industry project aims to provide telecom compani
 
 ---
 
+## Customer Retention Analysis [**Live Dashboard**](https://www.novypro.com/project/customer-retention-analysis-28)
+
+![Customer Retention](https://raw.githubusercontent.com/Apaulgithub/CodeClauseInternship_Churn_Prediction/main/Customer%20Retention%20Analysis.png)
+
+---
+
 ## Conclusion
 
 The Churn Prediction in Telecom Industry project revealed key insights:
